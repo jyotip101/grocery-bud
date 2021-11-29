@@ -1,5 +1,7 @@
 <h1 align="center">Grocery Bud</h1>
   
+  This project is like a to-do list app. Here users can add, edit and delete the items and they also see alerts after that. they  can also delete all items of the list
+  
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents

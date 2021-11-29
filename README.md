@@ -6,15 +6,25 @@
 
 - [Demo](#demo)
 - [Overview](#overview)
+  - [Built With](#built-with)
 - [How To Use](#how-to-use)
 
 <!-- DEMO -->
 
 ## Demo
 
+[Grocery Bud](https://jyotip101.github.io/grocery-bud/)
+
 <!-- OVERVIEW -->
 
 ## Overview
+
+![Screenshot](https://user-images.githubusercontent.com/66724598/143888624-10299ac2-66de-47aa-b64b-7b7d6199ed40.png)
+
+### Built With
+
+- [React](https://reactjs.org/)
+- [Google icon](https://fonts.google.com/icons)
 
 ## How To Use
 

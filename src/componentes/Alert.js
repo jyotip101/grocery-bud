@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 
 const Alert = ({ color, bgColor, mesg, showAlert, list }) => {
+  // remove alert box after 3sec
   useEffect(() => {
     const timeOut = setTimeout(() => {
       showAlert()

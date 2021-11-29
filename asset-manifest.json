@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/grocery-bud/static/css/main.ff605c9a.chunk.css",
-    "main.js": "/grocery-bud/static/js/main.60e9f97b.chunk.js",
-    "main.js.map": "/grocery-bud/static/js/main.60e9f97b.chunk.js.map",
+    "main.js": "/grocery-bud/static/js/main.6efdff07.chunk.js",
+    "main.js.map": "/grocery-bud/static/js/main.6efdff07.chunk.js.map",
     "runtime-main.js": "/grocery-bud/static/js/runtime-main.1b046760.js",
     "runtime-main.js.map": "/grocery-bud/static/js/runtime-main.1b046760.js.map",
     "static/js/2.a0d3ed23.chunk.js": "/grocery-bud/static/js/2.a0d3ed23.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1b046760.js",
     "static/js/2.a0d3ed23.chunk.js",
     "static/css/main.ff605c9a.chunk.css",
-    "static/js/main.60e9f97b.chunk.js"
+    "static/js/main.6efdff07.chunk.js"
   ]
 }

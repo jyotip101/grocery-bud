@@ -15,7 +15,7 @@
 
 ## Demo
 
-[Grocery Bud](https://jyotip101.github.io/grocery-bud-react/)
+[Grocery Bud](https://thejyotipatel.github.io/grocery-bud-react/)
 
 <!-- OVERVIEW -->
 
